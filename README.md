@@ -10,7 +10,7 @@
 
 [![Roadmap](https://img.shields.io/badge/roadmap-blue.svg)](https://trello.com/b/O3IBSlWV)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/BillyCoenWU?style=social)](https://twitter.com/BillyCoenWU)
+[![Twitter Follow](https://img.shields.io/twitter/follow/BillyCoenWU?style=social)](https://twitter.com/rologsms)
 
 ## A custom serialization of a scene's informations in the unity inspector.
 
